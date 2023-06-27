@@ -1,2 +1,2 @@
 My first readme
-i apdated readme
+README Updated from interface
